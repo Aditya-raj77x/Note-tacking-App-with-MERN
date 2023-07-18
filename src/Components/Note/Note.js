@@ -1,6 +1,6 @@
 import React from "react";
 
-import deleteIcon from "../../assets/delete.svg";
+import deleteIcon from "../../assets/delete.png";
 
 import "./Note.css";
 
